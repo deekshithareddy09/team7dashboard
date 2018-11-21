@@ -6,8 +6,13 @@
 
 2. Run node terminal 
 
-3.Then run http-server by executing  http-server.
+3. Then execute bower install
 
-4. Then will get a url ,give that url in the browser to execute the project .
+4. then grunt build
+
+5.Then run http-server by executing  http-server.
+
+6. Then will get a url ,give that url in the browser to execute the project .
+
  
 
